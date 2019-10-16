@@ -1,2 +1,2 @@
-# AngryBirdsStage2.5
-angry birds objects r added
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
